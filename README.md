@@ -1,1 +1,1 @@
-# SOM-neural-network
+# SOM Neural Network
